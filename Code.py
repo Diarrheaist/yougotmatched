@@ -1,0 +1,7 @@
+father = input("Enter Father's age: ")
+f = int(father)
+mother = input("Enter Mother's age:")
+m = int(mother)
+son = input("Enter  first Son's Age:")
+s = int(son)
+r = ("Out of Million sperm you got matched ") + str (f-s-.75) + (" years ago ")
